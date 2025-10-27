@@ -5,7 +5,7 @@
 
 > Projeto educacional e seguro, desenvolvido em Python, que simula o funcionamento de uma roleta russa digital.
 Nenhum arquivo real do sistema é afetado — o código opera apenas dentro de uma pasta de teste “sandbox” criada automaticamente para fins demonstrativos.
-> 🧠 Lembre-se: o verdadeiro desafio não é apertar o gatilho, mas escrever código que funcione de forma segura, controlada e ética. 
+> Lembre-se: o verdadeiro desafio não é apertar o gatilho, mas escrever código que funcione de forma segura, controlada e ética. 
 
 
 ### ⚠️ Aviso Importante
