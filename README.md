@@ -1,4 +1,4 @@
-# Projeto Roleta Russa Simulada (Python)
+# Simulação de Roleta Russa (Python)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Kelvin1337/X-MEN?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Kelvin1337/RoletaRussa?style=for-the-badge)
