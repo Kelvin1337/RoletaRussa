@@ -16,8 +16,8 @@ Use somente em ambiente controlado e com o modo “sandbox” padrão.
 
 O projeto foi finalizado com as seguintes implementações:
 
-- [x] Simulação realista de uma roleta russa com 6 câmaras
-- [x] Código comentado e estruturado com boas práticas de segurança
+- [x] Simulação realista de uma roleta russa com 6 câmaras;
+- [x] Código comentado e estruturado com boas práticas de segurança.
 
 ## 💻 Pré-requisitos
 
