@@ -31,4 +31,4 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Quer fazer parte desse projeto? Clique AQUI.
 
-> 🧠 Lembre-se: o verdadeiro desafio não é apertar o gatilho, mas escrever código que funcione de forma segura, controlada e ética. 
+🧠 Lembre-se: o verdadeiro desafio não é apertar o gatilho, mas escrever código que funcione de forma segura, controlada e ética. 
